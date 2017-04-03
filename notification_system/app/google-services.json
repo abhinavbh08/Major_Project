@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "802565295344",
+    "firebase_url": "https://notificationsystem-f7f19.firebaseio.com",
+    "project_id": "notificationsystem-f7f19",
+    "storage_bucket": "notificationsystem-f7f19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802565295344:android:8d9dc7671826eefa",
+        "android_client_info": {
+          "package_name": "com.example.abhinav.notification_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802565295344-21itsqfjckvbgee1gsjoa0dalu31dvbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgr74IM2_aswLbKwS71F1sKLU4EcISMvI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

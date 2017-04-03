@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "346212796216",
+    "firebase_url": "https://getlocationdataall-eaf2f.firebaseio.com",
+    "project_id": "getlocationdataall-eaf2f",
+    "storage_bucket": "getlocationdataall-eaf2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346212796216:android:766468362c3bd46c",
+        "android_client_info": {
+          "package_name": "com.example.abhinav.get_location_data_all"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346212796216-nb3adfqisgmmlkb620n3p10eunl3cb0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCNVxx9MQXBuSRsTJAwxRYuUt0XFviaFE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

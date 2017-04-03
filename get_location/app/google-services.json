@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1019511340161",
+    "firebase_url": "https://getlocation-3a5b8.firebaseio.com",
+    "project_id": "getlocation-3a5b8",
+    "storage_bucket": "getlocation-3a5b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019511340161:android:afe9bf2cc8827419",
+        "android_client_info": {
+          "package_name": "com.example.abhinav.get_location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019511340161-4h38t2m8e2ttn08hcim6ckiir4rk9bcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBThwmPu4MpWbbHLShpZDVv1AHe62tzHNg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
